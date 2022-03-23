@@ -4,4 +4,4 @@ age 36
 
 state single
 
-system engineer se agrega su vida
+system engineer se agrega su vida y obra de nada
